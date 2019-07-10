@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "lib": ["dom"],
+    "esModuleInterop": true
+  },
+  // "include": ["./**/*/"], TODO: Update this depending on the project
+  "exclude": ["node_modules"]
+}
